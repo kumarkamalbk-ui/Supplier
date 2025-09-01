@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Console.Write("Enter radius of circle: ");
-        int radius = int.Parse(Console.ReadLine());
+        int grade = int.Parse(Console.ReadLine());
         
 
         switch (grade)
